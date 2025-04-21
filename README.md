@@ -42,11 +42,10 @@
 ![Robolectric](https://img.shields.io/badge/Robolectric-Unit--Test-lightgrey)
 
 ---
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahityadubey)
-[![Email](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=outlook&logoColor=white)](mailto:sahityadubey@outlook.com)
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:sahityadubey@outlook.com)
 
 ---
 
