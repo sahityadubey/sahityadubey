@@ -26,6 +26,7 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
 
 **Architecture & Tools**  
+<img src="https://img.shields.io/badge/BLE_GATT-Communication-blue?style=flat&logo=bluetooth&logoColor=white" alt="BLE GATT" />
 ![MVVM](https://img.shields.io/badge/MVVM-Architecture-green)
 ![Dagger](https://img.shields.io/badge/Dagger-FF6D00?style=flat&logo=google&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat)
