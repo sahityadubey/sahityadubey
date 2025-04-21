@@ -1,16 +1,52 @@
-## Hi there 👋
+<h2 align="center">Hey there, I'm Sahitya Dubey! 👋</h2>
+<p align="center">
+  <strong>Senior Android Engineer</strong> | <em>Kotlin Enthusiast</em> | <strong>BLE & IoT Developer</strong>
+</p>
 
-<!--
-**sahityadubey/sahityadubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🧠 7+ years of experience in **mobile app development**
+- 🔒 Building smart lock solutions at **Allegion plc**
+- 💡 Skilled in BLE, MQTT, Jetpack, MVVM, Clean Architecture
+- 📱 Hands-on with Android 12/13/14, CI/CD, and app store deployments
+- ⚙️ Passionate about writing clean, maintainable, and testable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat&logo=reactivex&logoColor=white)
+
+**Mobile**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
+
+**Architecture & Tools**  
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-green)
+![Dagger](https://img.shields.io/badge/Dagger-FF6D00?style=flat&logo=google&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat)
+
+**Databases**  
+![Room](https://img.shields.io/badge/Room-DB-blue)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Cosmos--DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**DevOps & Testing**  
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Robolectric](https://img.shields.io/badge/Robolectric-Unit--Test-lightgrey)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahityadubey)
+[![Email](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sahityadubey95@gmail.com)
+
+---
+
+<p align="center">Thanks for visiting! Keep coding and stay curious.</p>
