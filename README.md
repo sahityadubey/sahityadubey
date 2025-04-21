@@ -9,7 +9,7 @@
 - 🧠 7+ years of experience in **mobile app development**
 - 🔒 Building smart lock solutions at **Allegion plc**
 - 💡 Skilled in BLE, MQTT, Jetpack, MVVM, Clean Architecture
-- 📱 Hands-on with Android 12/13/14, CI/CD, and app store deployments
+- 📱 Hands-on with Android 12/13/14/15, CI/CD, and app store deployments
 - ⚙️ Passionate about writing clean, maintainable, and testable code
 
 ---
@@ -45,7 +45,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahityadubey)
-[![Email](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sahityadubey95@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=outlook&logoColor=white)](mailto:sahityadubey@outlook.com)
 
 ---
 
