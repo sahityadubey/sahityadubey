@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧠 8+ years of experience in **mobile app development**
+- 🧠 8 years of experience in **mobile app development**
 - 🔒 Building smart lock solutions at **Allegion plc**
 - 💡 Skilled in BLE, MQTT, Jetpack, MVVM, Clean Architecture
 - 📱 Hands-on with Android 12/13/14/15, CI/CD, and app store deployments
